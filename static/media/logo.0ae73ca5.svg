@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176" height="64" viewBox="0 0 176 64">
+    <defs>
+        <filter id="io84k2assa" width="126.9%" height="125%" x="-13.5%" y="-8.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.138548951 0"/>
+        </filter>
+        <path id="5slef5qxwb" d="M35.164 44.58c-3.388 1.86-7.278 2.918-11.415 2.918C10.633 47.498 0 36.865 0 23.75S10.633 0 23.75 0c13.115 0 23.748 10.633 23.748 23.75 0 5.681-1.995 10.897-5.324 14.985l.065.07 8.618 9.57c1.69 1.877 1.538 4.768-.339 6.457-1.876 1.69-4.767 1.538-6.456-.338l-8.618-9.57c-.1-.111-.193-.226-.28-.344zM13.367 19.81c-.465 1.224-.72 2.552-.72 3.94 0 6.13 4.971 11.1 11.102 11.1s11.101-4.97 11.101-11.1c0-6.132-4.97-11.102-11.1-11.102-1.373 0-2.686.249-3.9.704l.187.206c1.69 1.876 1.538 4.767-.339 6.457-1.83 1.648-4.627 1.544-6.331-.205z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <text fill="#344247" font-family="Famtree-Regular, Famtree" font-size="48" transform="translate(-1366 -122) translate(1198.5 -.5) translate(140 118) translate(.5 .5) translate(25.5 .5) translate(0 .5)">
+                                    <tspan x="0" y="48">تدري</tspan>
+                                </text>
+                                <g>
+                                    <g transform="translate(-1366 -122) translate(1198.5 -.5) translate(140 118) translate(.5 .5) translate(25.5 .5) translate(0 .5) translate(121.5 5)">
+                                        <use fill="#000" filter="url(#io84k2assa)" xlink:href="#5slef5qxwb"/>
+                                        <use fill="#44C874" xlink:href="#5slef5qxwb"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

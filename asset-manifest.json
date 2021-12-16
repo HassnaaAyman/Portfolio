@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.60ceaa30.chunk.css",
+    "main.js": "/Portfolio/static/js/main.4f58737c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4f58737c.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.674774de.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.674774de.js.map",
+    "static/js/2.c523b2f9.chunk.js": "/Portfolio/static/js/2.c523b2f9.chunk.js",
+    "static/js/2.c523b2f9.chunk.js.map": "/Portfolio/static/js/2.c523b2f9.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/Portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.cf9c83e3.chunk.js": "/Portfolio/static/js/3.cf9c83e3.chunk.js",
+    "static/js/3.cf9c83e3.chunk.js.map": "/Portfolio/static/js/3.cf9c83e3.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/Portfolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.651aed64.chunk.js": "/Portfolio/static/js/4.651aed64.chunk.js",
+    "static/js/4.651aed64.chunk.js.map": "/Portfolio/static/js/4.651aed64.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.358d8f466ace8a0e1adca4556a358704.js": "/Portfolio/precache-manifest.358d8f466ace8a0e1adca4556a358704.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/Portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/Portfolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.60ceaa30.chunk.css.map": "/Portfolio/static/css/main.60ceaa30.chunk.css.map",
+    "static/js/2.c523b2f9.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c523b2f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/Portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/facultyOfScience.jpeg": "/Portfolio/static/media/facultyOfScience.4ec7cd7a.jpeg",
+    "static/media/iti_logo.jpeg": "/Portfolio/static/media/iti_logo.1e94adf7.jpeg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.0ae73ca5.svg",
+    "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/Portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674774de.js",
+    "static/js/2.c523b2f9.chunk.js",
+    "static/css/main.60ceaa30.chunk.css",
+    "static/js/main.4f58737c.chunk.js"
+  ]
+}
